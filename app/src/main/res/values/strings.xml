@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tp2.3</string>
+    <string name="enter_any_text">Enter any text</string>
+    <string name="open_location">Open Location</string>
+    <string name="share_this_texte">Share this texte</string>
+    <string name="ChoosterTitle">\"Share this text with: \"</string>
+</resources>
